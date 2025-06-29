@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | 🛡️ Cybersecurity Enthusiast | 🇮🇳 India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34D399&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Explorer;Open+Source+Contributor;Loves+React+%26+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34D399&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Explorer;Open+Source+Contributor;javascript+%26+python" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### 🌱 About Me
 
 - 🎓 I'm currently pursuing **B.Tech in Cybersecurity**
-- 💻 Building full-stack applications with **React**, **Node.js**, **Next.js**, **FastAPI**
+- 💻 Building full-stack applications with **React**, **Node.js**, **Next.js**, **FastAPI**, **Python**
 - 🛠️ Exploring ethical hacking, bug bounty, and domain/IP intelligence
 - ✍️ Building: [`Domain Scope`](https://github.com/vaishnav4281/Domain-scope) — an IP & Domain Intelligence Toolkit
 
