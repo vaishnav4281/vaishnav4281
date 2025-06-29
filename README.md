@@ -69,7 +69,22 @@
 - ☁️ Docker, DevOps, and scalable backend deployment (Render, Railway, Vercel)
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaishnav4281&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vaishnav4281.vaishnav4281)
+
+---
+### 🛠️ Languages & Tools
+![React](https://img.shields.io/badge/-React-181717?style=flat-square&logo=react)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![NodeJS](https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+
+---
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 ### 💡 Fun Fact
 
 > I break things to make things better ⚡
