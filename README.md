@@ -54,7 +54,7 @@
 ---
 
 ### 📊 GitHub Stats
-
+![Vaishnav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnav4281&theme=react-dark)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav4281&layout=compact&theme=tokyonight" />
 </p>
