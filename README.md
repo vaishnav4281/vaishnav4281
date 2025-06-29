@@ -56,7 +56,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnav4281&show_icons=true&theme=tokyonight" alt="Vaishnav's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav4281&layout=compact&theme=tokyonight" />
 </p>
 
