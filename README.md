@@ -1,11 +1,13 @@
 <h1 align="center">Hey there 👋, I'm Vaishnav</h1>
 <h3 align="center">🚀 Full Stack Developer | 🛡️ Cybersecurity Enthusiast | 🇮🇳 India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34D399&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Explorer;Open+Source+Contributor;javascript+%26+python" alt="Typing SVG" />
-</p>
+
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=34D399&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Researcher;Open+Source+Contributor;javascript+%26+python" alt="Typing SVG" />
+</p>
+
 
 ### 🌱 About Me
 
