@@ -70,10 +70,6 @@
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 > 💬 _“Code is like humor. When you have to explain it, it’s bad.”_  
 > — Cory House
 
