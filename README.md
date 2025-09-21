@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Vaishnav</h1>
-<h3 align="center">🚀 Full Stack Developer | 🛡️ Cybersecurity Enthusiast | 🇮🇳 India</h3>
+<h3 align="center">🚀 Full Stack Developer | 🛡️ Cybersecurity Researcher </h3>
 
 
 
@@ -74,3 +74,9 @@
 > — Cory House
 
 ---
+###
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p> 
