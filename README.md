@@ -52,6 +52,13 @@
 - 🕵️‍♂️ Bug bounty tools: Burp Suite, Nmap, Sublist3r, ffuf
 
 ---
+###
+
+<div align="center">
+  <img height="400" src="https://media1.tenor.com/m/ijLGljdt9BAAAAAd/are-you-trying-to-recruit-me-recruit.gif"  />
+</div>
+
+###
 
 ### 📊 GitHub Stats
 ![Vaishnav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnav4281&theme=react-dark)
@@ -68,7 +75,10 @@
 - 🌐 Open-source geolocation & IP intelligence
 - ☁️ Docker, DevOps, and scalable backend deployment (Render, Railway, Vercel)
 
----
+###
+
+
+###
 
 > 💬 _“Code is like humor. When you have to explain it, it’s bad.”_  
 > — Cory House
