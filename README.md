@@ -53,9 +53,8 @@
 
 ---
 ###
-
 <div align="center">
-  <img height="250" src="https://media1.tenor.com/m/Wn9f2WkN4c8AAAAd/prison-break-michael-scofield.gif"  />
+  <img height="200" src="https://media1.tenor.com/m/Wn9f2WkN4c8AAAAd/prison-break-michael-scofield.gif"  />
 </div>
 
 ###
