@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://media1.tenor.com/m/ijLGljdt9BAAAAAd/are-you-trying-to-recruit-me-recruit.gif"  />
+  <img height="250" src="https://media1.tenor.com/m/ijLGljdt9BAAAAAd/are-you-trying-to-recruit-me-recruit.gif"  />
 </div>
 
 ###
