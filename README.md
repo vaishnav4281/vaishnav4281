@@ -14,7 +14,7 @@
 - 🎓 I'm currently pursuing **B.Tech in Cybersecurity**
 - 💻 Building full-stack applications with **React**, **Node.js**, **Next.js**, **FastAPI**, **Python**
 - 🛠️ Exploring ethical hacking, bug bounty, and domain/IP intelligence
-- ✍️ Building: [`Domain Scope`](https://github.com/vaishnav4281/Domain-scope) — an IP & Domain Intelligence Toolkit
+- ✍️ Building: [`Domain Scope`](https://github.com/vaishnav4281/Domainscope) — an Domain Intelligence Toolkit
 
 ---
 
