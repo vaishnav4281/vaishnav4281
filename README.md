@@ -37,14 +37,6 @@
 
 ---
 
-### ⚙️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,py,fastapi,mongodb,html,css,tailwind,docker,git,linux,figma" />
-</p>
-
----
-
 ### 🛠️ Tools & Design
 
 - 🧰 VS Code, Postman, Insomnia, GitHub Actions
