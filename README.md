@@ -159,9 +159,8 @@ A cloud-native platform for collecting and analyzing **domain, DNS, IP, and infr
 
 ## 📬 Let’s Connect
 
-* **LinkedIn:** [https://linkedin.com/in/vaishnav-k-5a15a527b](https://linkedin.com/in/vaishnav-k-5a15a527b)
+* **LinkedIn:** [https://www.linkedin.com/in/va1shnav/](https://www.linkedin.com/in/va1shnav/)
 * **Email:** [k.vaishnav.ae@gmail.com](mailto:k.vaishnav.ae@gmail.com)
-* **Dev.to:** [https://dev.to/vaishnav_k](https://dev.to/vaishnav_k)
 
 ---
 
