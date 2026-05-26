@@ -109,13 +109,52 @@ A cloud-native platform for collecting and analyzing **domain, DNS, IP, and infr
 | Observability | Logs, metrics                        |
 
 ---
+<!-- START HIGH-AESTHETIC LEETCODE SECTION -->
+<div align="center">
+
+## ✦ Algorithmic Architecture ✦
+<!-- Premium minimalist glassmorphism-style badge -->
+<a href="https://leetcode.com/u/_vaishnav_k_/" target="_blank">
+  <img src="https://img.shields.io/badge/—%20LEETCODE%20%7C%20_vaishnav__k__%20—-24292e?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=1F242C" alt="LeetCode" />
+</a>
+
+<br/><br/>
+
+<!-- Side-by-Side Unified Dashboard -->
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- Live Analytics Card with subtle neon contrast -->
+    <td align="center" valign="middle" style="border: none;">
+      <a href="https://leetcode.com/u/_vaishnav_k_/">
+        <img src="https://leetcode-stats-six.vercel.app/?username=_vaishnav_k_&theme=dark" alt="LeetCode Stats" width="390px" />
+      </a>
+    </td>
+    <!-- Minimalist Python Focus Card -->
+    <td align="left" valign="middle" style="border: none; padding-left: 25px;">
+      <img src="https://img.shields.io/badge/Runtime-Python_3.x-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <br/><br/>
+      <font size="3" color="#8B949E">
+        ⚡ <b>Paradigm Focus</b>
+        <br/>
+        • <code>O(log n)</code> Optimized Array & Matrix Architectures
+        <br/>
+        • Advanced Dynamic Programming & Greedy Logic
+        <br/>
+        • Automated Data Structure Manipulations
+      </font>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-Actively_Solving-2ea44f?style=flat-square" alt="Status" />
+    </td>
+  </tr>
+</table>
+
+<!-- Sleek minimalist horizontal separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5e.gif" width="50%"/>
+
+</div>
+<!-- END HIGH-AESTHETIC LEETCODE SECTION -->
 
 ## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnav4281&theme=react-dark" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav4281&layout=compact&theme=tokyonight" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vaishnav4281&theme=tokyonight" width="45%" />
