@@ -124,11 +124,6 @@ A cloud-native platform for collecting and analyzing **domain, DNS, IP, and infr
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
     <!-- Live Analytics Card with subtle neon contrast -->
-    <td align="center" valign="middle" style="border: none;">
-      <a href="https://leetcode.com/u/_vaishnav_k_/">
-        <img src="https://leetcode-stats-six.vercel.app/?username=_vaishnav_k_&theme=dark" alt="LeetCode Stats" width="390px" />
-      </a>
-    </td>
     <!-- Minimalist Python Focus Card -->
     <td align="left" valign="middle" style="border: none; padding-left: 25px;">
       <img src="https://img.shields.io/badge/Runtime-Python_3.x-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -156,7 +151,6 @@ A cloud-native platform for collecting and analyzing **domain, DNS, IP, and infr
 
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnav4281&layout=compact&theme=tokyonight" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vaishnav4281&theme=tokyonight" width="45%" />
 </p>
 
